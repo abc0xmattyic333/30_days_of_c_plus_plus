@@ -123,5 +123,3 @@ int main() {
 // Hello, World!
 
 // Thanks for completing this lesson! I hope you enjoyed it! :)
-
-// Continue to the next lesson to learn about Variables in C++.
